@@ -1,5 +1,5 @@
 /*
- *James Arnold S. Nieves
+ *James Arnold Nieves
  *December 4, 2024
  *Exception Handling Laboratory Challenges
  */
